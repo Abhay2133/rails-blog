@@ -1,0 +1,1 @@
+export DATABASE_URL="postgresql://admin1:root@localhost:5432/blog_db"
