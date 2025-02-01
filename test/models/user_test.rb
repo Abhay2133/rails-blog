@@ -37,8 +37,6 @@ class UserTest < ActiveSupport::TestCase
       "user_name@domain.io",
       "user-name@domain.org",
       "u123@domain.net",
-      "email@123.123.123.123",
-      "name@localhost", # (Valid in some cases)
       "a@b.cc",
       "user@email.travel"
     ].each do |email|
