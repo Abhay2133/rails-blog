@@ -32,4 +32,4 @@ group :test do
 end
 gem "tailwindcss-rails", "~> 3.3"
 
-gem "sqlite3", "~> 2.5"
+gem "sqlite3", "~> 2.6"
